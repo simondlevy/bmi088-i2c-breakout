@@ -1,0 +1,5 @@
+Comment,Designator,Footprint
+,,
+0.1uF,"C1, C2",CL10B104KB8NNWC 0.1uF 0603
+1.5K Ohm,"R1, R2",WR06X152 JTL 1.5K Ohm 0603
+BMI088,U1,BMI088 IMU
