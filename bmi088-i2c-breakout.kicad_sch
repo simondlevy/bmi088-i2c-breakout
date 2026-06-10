@@ -2011,7 +2011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 80.772 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -2153,7 +2153,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f0289ec-d19a-4580-956c-c90a0d6a3191")
-		(property "Reference" "JP1"
+		(property "Reference" "JP2"
 			(at 95.25 74.9299 90)
 			(hide yes)
 			(show_name no)
@@ -2177,7 +2177,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:C_0201_0603Metric"
 			(at 92.71 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2219,7 +2219,7 @@
 		(instances
 			(project "bmi088-i2c-breakout"
 				(path "/62fce77e-fdaf-4ea6-889e-53ca4188e9b9"
-					(reference "JP1")
+					(reference "JP2")
 					(unit 1)
 				)
 			)
@@ -2237,7 +2237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "429c2d48-f392-46a9-83f3-c3e604d4456e")
-		(property "Reference" "JP2"
+		(property "Reference" "JP1"
 			(at 85.09 74.9299 90)
 			(hide yes)
 			(show_name no)
@@ -2249,7 +2249,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Jumper_2_Open"
+		(property "Value" "Jumper_1_Open"
 			(at 85.09 77.4699 90)
 			(hide yes)
 			(show_name no)
@@ -2261,7 +2261,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:C_0201_0603Metric"
 			(at 82.55 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2303,7 +2303,7 @@
 		(instances
 			(project "bmi088-i2c-breakout"
 				(path "/62fce77e-fdaf-4ea6-889e-53ca4188e9b9"
-					(reference "JP2")
+					(reference "JP1")
 					(unit 1)
 				)
 			)
@@ -2515,7 +2515,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 90.932 86.36 90)
 			(hide yes)
 			(show_name no)
